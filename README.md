@@ -45,7 +45,7 @@ Para instalar las bibliotecas necesarias, usa los siguientes comandos:
 
 ## Estructura del Proyecto
 ![Texto alternativo](https://i.ibb.co/jkD4KNB/Estructura-del-Proyecto-cinema-programacionestrcturada.png)
-
+```bash
 proyecto_cine/
 ├── admin/
 │   ├── __pycache__/
@@ -78,6 +78,7 @@ proyecto_cine/
 ├── cartelera.db
 ├── tickets.json
 └── usuarios.db
+```
 
 ## Descripción de los Módulos
 
