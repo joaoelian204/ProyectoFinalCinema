@@ -1,0 +1,27 @@
+{
+    "Elian Palma": [
+        {
+            "usuario": "Elian Palma",
+            "pelicula": "MI VILLANO FAVORITO 4",
+            "hora": "13:20 PM",
+            "sala": "Sala 1",
+            "asientos": [
+                "D1",
+                "D2",
+                "D3"
+            ],
+            "fecha_hora": "2024-07-17 21:53:29"
+        },
+        {
+            "usuario": "Elian Palma",
+            "pelicula": "MI VILLANO FAVORITO 4",
+            "hora": "13:20 PM",
+            "sala": "Sala 1",
+            "asientos": [
+                "E6",
+                "E7"
+            ],
+            "fecha_hora": "2024-07-17 22:17:27"
+        }
+    ]
+}
