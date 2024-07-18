@@ -1,6 +1,6 @@
 # Proyecto Final Cinema
 
-### Proyecto creado por Joao Elian Moreira Palma Estudiante de 2do Semestre de la carrera de Ingenieria de software de la Universidad Laica Eloy Alfaro de Manabi.
+Proyecto creado por `Joao Elian Moreira Palma` Estudiante de 2do Semestre de la carrera de Ingenieria de software de la Universidad Laica Eloy Alfaro de Manabi.
 ## Descripción
 Esta aplicación de cine, desarrollada en Python, utiliza SQLite3 para la base de datos y Tkinter para la interfaz gráfica. La aplicación ofrece dos modos de vista: uno para usuarios y otro para administradores. Los usuarios pueden ver películas, iniciar sesión, registrarse, y gestionar sus asientos, entre otras funcionalidades. Los administradores pueden gestionar películas, publicidad, productos, y salas con sus horarios, entre otras funcionalidades.
 
