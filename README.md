@@ -27,6 +27,8 @@ Esta aplicación de cine, desarrollada en Python, utiliza SQLite3 para la base d
 - SQLite3 (incluido en la biblioteca estándar de Python)
 - Pillow
 - ReportLab
+- requests
+- reportlab
 - pdfkit => Ten en cuenta que para `pdfkit`, también necesitas instalar `wkhtmltopdf`.
 
   - Para Ubuntu/Linux:
@@ -45,6 +47,8 @@ Para instalar las bibliotecas necesarias, usa los siguientes comandos:
 - pip install Pillow
 - pip install reportlab
 - pip install pdfkit
+- pip install pdfkit
+- pip install requests
 
 ## Estructura del Proyecto
 
